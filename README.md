@@ -19,8 +19,8 @@ Universidad de Málaga
 
 ## Coverage
 
-[Coverage](coverage.png)
+![Coverage](coverage.png)
 
 ## Commits
 
-[Commits](commits.png)
+![Commits](commits.png)
