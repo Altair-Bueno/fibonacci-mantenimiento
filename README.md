@@ -11,3 +11,6 @@ Universidad de Málaga
   de
   realizar [Tail Recursion Optimization](https://en.wikipedia.org/wiki/Tail_call)
 - Ante una entra inválida, el programa devolverá `null`
+- [commits.png](commits.png) utiliza el visualizador de IntelliJ IDEA. No tengo
+  Gitkraken ni SourceTree instalados. Considero que son innecesarios para
+  realizar esta entrega
