@@ -14,3 +14,13 @@ Universidad de Málaga
 - [commits.png](commits.png) utiliza el visualizador de IntelliJ IDEA. No tengo
   Gitkraken ni SourceTree instalados. Considero que son innecesarios para
   realizar esta entrega
+
+# Images
+
+## Coverage
+
+[Coverage](coverage.png)
+
+## Commits
+
+[Commits](commits.png)
