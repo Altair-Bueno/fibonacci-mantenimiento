@@ -1,6 +1,9 @@
 import java.math.BigInteger;
 
 public class Fibonacci {
+
+    private Fibonacci(){}
+
     public static BigInteger fibonacci(BigInteger position) {
         if (position == null) return null;
 
